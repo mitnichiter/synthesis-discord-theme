@@ -10,16 +10,16 @@
  * @donate https://ko-fi.com/saltssaumure
 */
 
-@import url("https://saltssaumure.github.io/synthesis-discord-theme/synth.min.css");
+@import url("synth.min.css");
 
 /* See https://github.com/Saltssaumure/synthesis-discord-theme#customisation for customisation settings. */
 :root {
-    --synth-background-image:   url(https://saltssaumure.github.io/synthesis-discord-theme/backgrounds/default.avif);
+    --synth-background-image:   url(https://r4.wallpaperflare.com/wallpaper/553/87/605/music-stars-planet-space-wallpaper-b8e68da870004ce8208c61ae1812245a.jpg);
     --synth-backdrop-opacity:   0.3         ;
     --synth-overlay-color:      255 165 0   ;
     --synth-crt-light:          255 255 255 ;
     --synth-crt-dark:           0   0   0   ;
-    --synth-crt-flicker:        none        ;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
+    --synth-crt-flicker:        flicker     ;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 
     --synth-color-background:   20  6   36  ;
     --synth-color-foreground:   255 165 0   ;
